@@ -11,6 +11,18 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 
+#STM32CubeIDEforVSCode
+# Dossier de compilation généré par CMake / Ninja
+build/
+
+# Présets locaux éventuels générés par l'extension CMake Tools
+CMakeUserPresets.json
+
+# Configs locales IDE
+.settings/
+.vscode/
+
+
 # CLion
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
